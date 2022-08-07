@@ -71,7 +71,7 @@ Tableau Dashboard with key insight
 * The top 2 spending distributions of core customers are spendings between $100 to $500 (49.13%), and spendings below $100 (46.21%).
 
 <img width="600" alt="Screen Shot 2022-08-07 at 14 16 14" src="https://user-images.githubusercontent.com/48861299/183311412-d6aa42c3-c2b5-44b1-8651-ee6799753bcc.png">
-RFM customer segmentation
+Most of our customes are 'Regular Customer', 'Recent Customer' and 'Need-Attention Big Spender'. 
 
 #### Product
 <img width="600" alt="Screen Shot 2022-08-07 at 14 16 26" src="https://user-images.githubusercontent.com/48861299/183311435-5ade40ec-b437-4a37-b4d2-d8ac14e3a036.png">

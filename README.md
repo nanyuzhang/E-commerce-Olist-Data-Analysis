@@ -37,7 +37,7 @@ An informative and intuitive dashboard that delivers valuable insights for decis
 
 ## Detailed Approaches
 ### 1. Data Prepossessing & Cleaning 
-(See Prepossess.ipynb)
+
 * Data Deduplication
 * Missing Value 
 * Abnormality Check
